@@ -104,6 +104,7 @@ Browser, phone, and self-hosted surfaces for driving agents away from your desk.
 - [CloudCLI](https://github.com/siteboon/claudecodeui) - Free open source web UI to manage Claude Code, OpenCode, Cursor CLI, and Codex sessions remotely.
 - [Happy](https://github.com/slopus/happy) - Mobile and web client for Codex and Claude Code, with realtime voice and encryption.
 - [Kandev](https://github.com/kdlbs/kandev) - AI Kanban and development environment to orchestrate multiple agents, review changes, and open PRs.
+- [MulmoTerminal](https://github.com/receptron/mulmoterminal) - Browser grid of live Claude Code / Codex sessions started with one `npx` command. Each cell is a real PTY with a colour-coded status, tmux-backed persistence, and a git worktree per cell. For Claude Code, needs-you is shown separately from done, read from the CLI's own hooks.
 - [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board for getting more out of Claude Code, Codex, or any coding agent.
 
 ## Session Monitors and Companion Tools
