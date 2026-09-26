@@ -111,6 +111,7 @@ Browser, phone, and self-hosted surfaces for driving agents away from your desk.
 Products that watch, search, and resume agent work rather than run it.
 
 - [Agent Sessions](https://github.com/jazzyalex/agent-sessions) - Local-first macOS app to browse, search, analyze, and resume AI coding-agent session history.
+- [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay) - Privacy-friendly Codex Desktop quota overlay for Windows and macOS: quota, reset time, and reset credits beside the conversation title.
 - [CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation.
 
 ## Contributing
