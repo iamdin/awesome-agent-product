@@ -112,6 +112,7 @@ Products that watch, search, and resume agent work rather than run it.
 
 - [Agent Sessions](https://github.com/jazzyalex/agent-sessions) - Local-first macOS app to browse, search, analyze, and resume AI coding-agent session history.
 - [CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation.
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Web dashboard that monitors OpenClaw AI agents: token usage, session tracking, and 7-day trends, with multi-model support.
 
 ## Contributing
 
