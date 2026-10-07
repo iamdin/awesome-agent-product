@@ -23,6 +23,7 @@ Native and cross-platform desktop applications for running, orchestrating, and r
 - [Agent Teams](https://github.com/777genius/agent-teams-ai) - Kanban workspace where agents take high-level commands, message each other, and review each other's work.
 - [Agentastic](https://agentastic.dev) - Terminal-first multi-agent IDE for Mac.
 - [Aizen](https://aizen.win/) - Bring order to your repos. Switch worktrees, not windows.
+- [Aleph](https://github.com/josuecuguy1307/Aleph) - A desktop workspace for AI models, tools, agents, and specialized workflows.
 - [Alma](https://alma.now) - Elegant AI provider orchestration desktop app.
 - [Ami](https://ami.dev) - Run coding agents on your desktop without breaking your flow.
 - [Aperant](https://github.com/AndyMik90/Aperant) - Autonomous multi-session AI coding.
