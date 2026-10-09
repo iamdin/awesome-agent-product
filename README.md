@@ -56,6 +56,7 @@ Native and cross-platform desktop applications for running, orchestrating, and r
 - [Orca](https://github.com/stablyai/orca) - The ADE for working with a fleet of parallel agents, on desktop, mobile, and VPS.
 - [Parallel Code](https://github.com/johannesjo/parallel-code) - Run Claude Code, Codex, and Gemini side by side, each in its own Git worktree.
 - [Quests](https://github.com/quests-org/quests) - The open-source app builder that builds and runs apps on your computer using any LLM.
+- [Screenpipe](https://screenpipe.com) - Search past work, build reusable workflows, and manage capture with enterprise controls.
 - [Supacode](https://supacode.sh/) - Run 50+ coding agents in parallel.
 - [Superset](https://github.com/superset-sh/superset) - Code editor for the AI agents era, running an army of Claude Code, Codex, and more on your machine.
 - [Synara](https://github.com/Emanuele-web04/synara) - GUI desktop workspace for running and managing agents across local projects.
