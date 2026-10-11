@@ -104,6 +104,7 @@ Browser, phone, and self-hosted surfaces for driving agents away from your desk.
 - [CloudCLI](https://github.com/siteboon/claudecodeui) - Free open source web UI to manage Claude Code, OpenCode, Cursor CLI, and Codex sessions remotely.
 - [Happy](https://github.com/slopus/happy) - Mobile and web client for Codex and Claude Code, with realtime voice and encryption.
 - [Kandev](https://github.com/kdlbs/kandev) - AI Kanban and development environment to orchestrate multiple agents, review changes, and open PRs.
+- [Tale](https://tale.dev/) - Shared workspace for assigning tasks to reusable AI agents, running coding harnesses in sandboxes, and reviewing deliverables.
 - [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board for getting more out of Claude Code, Codex, or any coding agent.
 
 ## Session Monitors and Companion Tools
