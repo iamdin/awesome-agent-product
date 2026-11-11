@@ -47,6 +47,7 @@ Native and cross-platform desktop applications for running, orchestrating, and r
 - [Multica](https://github.com/multica-ai/multica) - The open-source managed agents platform that turns coding agents into real teammates.
 - [Mux](https://github.com/coder/mux) - A desktop app for isolated, parallel agentic development.
 - [Nimbalyst](https://github.com/nimbalyst/nimbalyst) - Open-source visual workspace running parallel Claude Code, Codex, and OpenCode sessions with markdown, mockups, and task tracking.
+- [Novastart](https://novastart.com/) - A computer with AI Agents, Team Collaboration and Infinite Whiteboard Space.
 - [opcode](https://github.com/winfunc/opcode) - A powerful GUI app and toolkit for Claude Code.
 - [open-claude-cowork](https://github.com/composio-community/open-claude-cowork) - Open source version of Claude Cowork with 500+ SaaS app integrations.
 - [OpenAI Codex](https://openai.com/codex/) - AI Coding Partner from OpenAI.
