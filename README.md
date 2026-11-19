@@ -112,6 +112,7 @@ Products that watch, search, and resume agent work rather than run it.
 
 - [Agent Sessions](https://github.com/jazzyalex/agent-sessions) - Local-first macOS app to browse, search, analyze, and resume AI coding-agent session history.
 - [CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation.
+- [Zortex](https://zortex.me/en/install) - Connects an agent to supported accounts and keeps app data in a private, encrypted store on your computer.
 
 ## Contributing
 
